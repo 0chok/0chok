@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0chok
-- 📫 How to reach 
+- 📫 twitter: https://x.com/chokRBLX
 
 <!---
 0chok/0chok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
